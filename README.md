@@ -1,0 +1,3 @@
+# ALGO
+
+	python */*.py
